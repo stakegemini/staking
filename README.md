@@ -3,7 +3,7 @@
 $Gemini is a rebase token and interested derivative. You can earn up to 37% APY just by staking your $GEMINI on the Solana Blockchain.
 
 Website: https://stakegemini.com
-Twitter: https://twitter.com/stakegemini
+Twitter: https://twitter.com/stakegeminisol
 Telegram: https://t.me/stakegemini
 
 
